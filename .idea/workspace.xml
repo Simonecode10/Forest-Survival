@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8430f92d-2782-4a89-baba-62abe82e23b0" name="Changes" comment="Creating main loop&#10;connecting Menu and game classes" />
+    <list default="true" id="8430f92d-2782-4a89-baba-62abe82e23b0" name="Changes" comment="Creating main loop&#10;connecting Menu and game classes">
+      <change afterPath="$PROJECT_DIR$/asset/BG_Decor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Battle_theme_loopable.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Cartoon_Forest_BG_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Ground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Middle_Decor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Sky.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Const.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/menu.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,7 +140,8 @@
       <workItem from="1790344933312" duration="1506000" />
       <workItem from="1790346546899" duration="130000" />
       <workItem from="1790346692082" duration="2503000" />
-      <workItem from="1790349323433" duration="895000" />
+      <workItem from="1790349323433" duration="3210000" />
+      <workItem from="1790516499368" duration="8161000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -182,13 +195,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
-          <line>9</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Forest_Survival$main.coverage" NAME="main Coverage Results" MODIFIED="1790346768124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Forest_Survival$main.coverage" NAME="main Coverage Results" MODIFIED="1790524052341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
