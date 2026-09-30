@@ -37,7 +37,7 @@ class Menu:
                 text_size=30,
                 text="CONTROLES",
                 text_color=(255, 128, 0),
-                text_center_pos=(730, 500)
+                text_center_pos=(900, 560)
             )
 
             for i in range(len(CONTROLS)):
@@ -45,7 +45,7 @@ class Menu:
                     text_size=20,
                     text=CONTROLS[i],
                     text_color=COLOR_WHITE,
-                    text_center_pos=(730, 545 + 35 * i)
+                    text_center_pos=(900, 600 + 35 * i)
                 )
             pygame.display.flip()
 
